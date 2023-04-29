@@ -54,7 +54,7 @@ a:hover, a:active {
 
 <h1>UMBC Information Systems</h1>
 <p>
-<img src="Lamar Jackson page 1.jpg" id="image" width = "600" height= "400"/><br>
+<img src="UMBCIT.jpg" id="image" width = "600" height= "400"/><br>
 <section>
   <h1>Welcome!</h1>
   <p>Welcome to the UMBC Department of information systems. Our program helps students prepare for the business and IT world.  </p>
