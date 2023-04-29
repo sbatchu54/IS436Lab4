@@ -1,11 +1,4 @@
 <html>
-  <style>
- {
-  margin: 0;
-  padding: 5px;
-  background-color: lightgray;
-}
-</style>
 
 <body>
 <section>
