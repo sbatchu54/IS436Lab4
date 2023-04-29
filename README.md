@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <style>
+ {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+</style>
 
 <section>
   <h1>UMBC Information Systems</h1>
-  <p>The UMBC Department of information systems </p>
+  <p>Welcome to the UMBC Department of information systems  </p>
 </section>
 
 <section>
