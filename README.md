@@ -66,7 +66,7 @@ a:hover, a:active {
 </section>
 <br>
 <a href="https://en.wikipedia.org/wiki/Lamar_Jackson" target="_blank">Under Grad Program</a>
-<a href="underIS.html" target="_blank">Contact us</a>
+<a href="underis.html" target="_blank">Contact us</a>
 
 
 </body>
