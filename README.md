@@ -69,7 +69,6 @@ a:hover, a:active {
 <a href="contact.html" target="_blank">Contact Us</a>
 
 
-</body>
-</html>
+
 
 
