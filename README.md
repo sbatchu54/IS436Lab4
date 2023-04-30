@@ -66,7 +66,7 @@ a:hover, a:active {
 </section>
 <br>
 <a href="underis.html" target="_blank">Under Grad Program</a>
-<a href="" target="_blank">Contact us</a>
+<a href="contact.html" target="_blank">Contact Us</a>
 
 
 </body>
