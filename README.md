@@ -65,8 +65,8 @@ a:hover, a:active {
   <p>To find out more about our Information Systems program, please contact us or look at our program to find out more by clicking the links below</p>
 </section>
 <br>
-<a href="https://en.wikipedia.org/wiki/Lamar_Jackson" target="_blank">Under Grad Program</a>
-<a href="underis.html" target="_blank">Contact us</a>
+<a href="underis.html" target="_blank">Under Grad Program</a>
+<a href="" target="_blank">Contact us</a>
 
 
 </body>
